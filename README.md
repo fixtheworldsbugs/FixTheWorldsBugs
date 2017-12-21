@@ -21,3 +21,6 @@ Any person can assign an issue to themselves and tackle the problem.
 Once an issue is tackled and documented the user who assigned it to themselves can create what's called a Pull Request to have their solution merged into the master project.
 
 Their solution can be anything from a spec, a document, a by-law they had changed in their community, sourcing out safer or larger capacity electric storage, any solution whether on paper or changed in the real world is an element that can be merged back into the main project until we have sourced from the world a complete solution for the average layman to implement solar power for their suburban home.
+
+
+
